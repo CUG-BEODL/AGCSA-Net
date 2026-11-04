@@ -1,6 +1,5 @@
-# AGCSA-Net: Alignment-Guided Cross-Spectral Attention for VNIR–SWIR Image Fusion
+# Coupling Spatial Alignment and Cross-Spectral Attention for Geology-1 VNIR–SWIR Image Fusion
 
-Han Qin, Haixu He, Jinhao Zhang, Peng Liu, and Jining Yan
 
 ## Overview
 
